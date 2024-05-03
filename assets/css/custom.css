@@ -1,0 +1,12 @@
+.navbar-nav .dropdown-menu.cart_box {
+    width: 130px!important;
+}
+
+.navbar-nav .dropdown-menu {
+    min-width: 8rem;
+}
+
+
+.bgcolor {
+    background-color: rgb(201, 116, 116)!important;
+}
